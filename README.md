@@ -10,6 +10,13 @@ Slowjam is a Youtube music application, with a twist - the audio is processed so
 
 ## Expo Link: https://expo.io/@keithnull/slowjam
 
+## Tech Stack
+
+* React Native
+* Expo
+* Node/Express Server
+* YTDL-core module
+
 ## Technical Challenges
 
 This app was created as part of Flex Week in the Thinkful Engineering Immersion Program. The goal of Flex Week is to practice learning a new technology/framework/etc in a week by yourself. I chose React Native (with no previous experience or knowledge of it) because I thought it would be useful to know and fun to learn.
